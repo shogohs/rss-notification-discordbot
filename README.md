@@ -1,4 +1,4 @@
-# RSSReader-Discord-BOT
+# rss-notification-discordbot
 RSS情報をDiscordサーバーのテキストチャンネルに通知するBOT
 
 ## 機能

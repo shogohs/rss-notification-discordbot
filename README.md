@@ -1,0 +1,2 @@
+# rss-notification-discordbot
+RSS情報をDiscordサーバーのテキストチャンネルに通知するBOT

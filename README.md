@@ -1,5 +1,5 @@
-# rss-notification-discordbot
-RSS情報をDiscordサーバーのテキストチャンネルに通知するBOT
+# rss-notification-discordwebhook
+RSS情報をDiscordサーバーのテキストチャンネルに通知するwebhook
 
 ## 機能
 * 1時間ごとにRSSフィードを取得して新着記事を通知

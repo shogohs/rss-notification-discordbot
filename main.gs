@@ -1,5 +1,5 @@
 /**
- * RSS通知Discord BOT for Google Apps Script
+ * RSS通知Discord webhook for Google Apps Script
  * 
  * 設定方法:
  * 1. スクリプトプロパティに以下を設定
